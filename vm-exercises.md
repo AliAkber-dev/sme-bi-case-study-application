@@ -25,7 +25,7 @@
 *One measurable learning objective that this exercise assesses*
 
 The learning objective of this exercise is to ensure that the learner has developed an initial understanding of how an Exploratory Data Analysis is carried out after importing the data in Tableau. This can be broken down into sub-objectives:
-- Developing an understanding of distribution of fraud by different variables such as (Age of Vehicle, Sex, Marital Status etc.) 
+- Developing an understanding of distribution of fraud by different variables such as (Policy Type, Vehicle Price, Age of Policy Holder etc.) 
 - Understanding how Calculated Fields in Tableau can be used to introduce new insights
 - Applying appropriate filters and creating groups to view breakdown of insurance fraud
 
@@ -34,7 +34,7 @@ The learning objective of this exercise is to ensure that the learner has develo
 *3 - 4 sentence description of why it’s important to to do this task (linking back to the learning objective). Explain how this would be used in a real-life situation. Why is it useful, what problem does it solve?*
 You can look at the same [exercise]([url](https://campus.datacamp.com/courses/case-study-analyzing-customer-churn-in-tableau/exploratory-analysis-1?ex=4)) from the Case Study: Analyzing Customer Churn in Tableau on how to write a good context.
 
-The initial step of any analysis starts by importing a raw dataset and exploring a few variables that will help us identify hidden patterns with the target variable; in this case "FraudFound". For finding that, we shall use some in-built functionalities of Tableau including Groups, Filters and Calculated Fields. With the use of these functionalities and conducting analyses on a few demographic variables such as Sex, Marital Status, Age of Vehicle, the learner will be able to identify key trends, types of anomalies and develop a practical understanding to approach a business problem related to Fraudulent or Anomalous Transactions. As such problems are prone to datasets where class imbalance is quite frequent, this Exploratory Data Analysis offers analytical principles to conduct a more complete report.
+The initial step of any analysis starts by importing a raw dataset and exploring a few variables that will help us identify hidden patterns with the target variable; in this case "FraudFound". For finding that, we shall use some in-built functionalities of Tableau including Groups, Filters and Calculated Fields. With the use of these functionalities and conducting analyses on a few demographic variables such as Policy Type, Vehicle Price, Age of Policy Holder - the learner will be able to identify key trends, types of anomalies and develop a practical understanding to approach a business problem related to Fraudulent or Anomalous Transactions. As such problems are prone to datasets where class imbalance is quite frequent, this Exploratory Data Analysis offers analytical principles to conduct a more complete report.
 #### Steps to be executed by the student (max 6)
 
 *Each bulleted instruction is a complete sentence that describes a specific task.*
