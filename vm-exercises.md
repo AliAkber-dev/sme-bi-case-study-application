@@ -9,20 +9,21 @@
 
 #### Dataset
 
-- [ ] Add datasets used to the `datasets/` folder
+- [x] Add datasets used to the `datasets/` folder
 - The dataset for this case study is Vehicle Insurance Fraud Data that can be found in the datasets folder
 
 #### Files
 
-- [ ] **Initial**: Add file to the `exercises/`  folder with the name `ex-1-intial.twbx` or `ex-1-intial.pbix`, depending if you are auditioning for a Tableau or Power BI course.
+- [x] **Initial**: Add file to the `exercises/`  folder with the name `ex-1-intial.twbx` or `ex-1-intial.pbix`, depending if you are auditioning for a Tableau or Power BI course.
 - The initial file in the exercises folder includes the initial Tableau workbook outlining some basic Exploratory Data Analysis (EDA).
 
-- [ ] **Solution**: Add file to the `exercises/`  folder with the name `ex-1-sol.twbx` or `ex-1-sol.pbix`
+- [x] **Solution**: Add file to the `exercises/`  folder with the name `ex-1-sol.twbx` or `ex-1-sol.pbix`
 - The solution file includes difference Distributions that give the reader insights into different variables and their assorted relevance to the target variable which in this case is "FraudFound P"
 
 #### Learning Objective
 
 *One measurable learning objective that this exercise assesses*
+
 The learning objective of this exercise is to ensure that the learner has developed an initial understanding of how an Exploratory Data Analysis is carried out after importing the data in Tableau. This can be broken down into sub-objectives:
 - Developing an understanding of distribution of fraud by different variables such as (Age of Vehicle, Sex, Marital Status etc.) 
 - Understanding how Calculated Fields in Tableau can be used to introduce new insights
